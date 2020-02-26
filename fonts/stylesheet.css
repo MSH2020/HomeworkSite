@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Colus';
+    src: url('Colus-Regular.eot');
+    src: url('Colus-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Colus-Regular.woff2') format('woff2'),
+        url('Colus-Regular.woff') format('woff'),
+        url('Colus-Regular.ttf') format('truetype'),
+        url('Colus-Regular.svg#Colus-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

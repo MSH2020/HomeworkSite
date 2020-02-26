@@ -1,0 +1,103 @@
+*   
+    {
+    color: lightyellow;
+    }
+html
+    {
+    background-image: url(../images/auroraCropped.jpg);
+    background-size: cover;
+    background-color: darkblue;
+    background-repeat: no-repeat;
+    background-position: bottom; 
+    background-blend-mode: lighten;
+    font-size-adjust: initial;
+    }
+
+
+
+#topnav
+    {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4vw;
+    text-transform: uppercase;
+    }
+
+.navlink.container
+    {
+    height: 5%;
+    border-radius: 10px;
+    border-width: 4px;
+    border-style: solid;
+    border-color: royalblue;
+    background-color: transparent;
+    margin: -4px;
+    padding: 6px;    
+    
+    display: flex;
+    justify-content: center;
+
+    }
+ 
+    .centermsg
+        {
+        background-color: transparent;
+        margin-top: 26%;
+        margin-left: 20%;
+
+        font-family: 'Colus';
+        src: url(../fonts/Colus-Regular.eot);
+        src: url(../fonts/Colus-Regular.eot?#iefix) format('embedded-opentype'),
+            url(../fonts/Colus-Regular.woff2) format('woff2'),
+            url(../fonts/Colus-Regular.woff) format('woff'),
+            url(../fonts/Colus-Regular.ttf) format('truetype'),
+            url(../fonts/Colus-Regular.svg#Colus-Regular) format('svg');
+        font-weight: normal;
+        font-style: normal;
+        }
+
+        h1
+            {
+            font-size: 8vw;
+            color: yellow;
+            /* position: relative; */
+            }
+
+        h2
+            {
+            font-size: 5vw;
+            color: yellow;
+
+            /* position: relative; */
+            }
+
+            
+    .disclaimer
+    {
+    /* display: flex; */
+    height:80px;
+    width: 100%;
+    overflow-y: scroll;
+    border-color:red;
+    border-width: 2px;
+    margin-top: 60%;
+    }
+
+    p
+    {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vw;
+    }
+     
+    .LI-profile-badge
+        {
+        object-position: right;
+        margin-top: 20%;
+        margin-left: 9%;
+        }
+
+    
+/*----------FOR DEVICES BIGGER THAN iPHONE 5/SE----------*/
+/*----------FOR DEVICES BIGGER THAN iPHONE 5/SE----------*/
+/*----------FOR DEVICES BIGGER THAN iPHONE 5/SE----------*/
+
+/* @media all and (min-width:600px) */
